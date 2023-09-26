@@ -1,7 +1,7 @@
 koloda = [6,7,8,9,10,2,3,4,11] * 4
 import random
 random.shuffle(koloda)
-print('Поиграем в 21?')
+print('Сыграем в 21?')
 count = 0
 
 while True:
