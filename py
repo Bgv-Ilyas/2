@@ -14,7 +14,7 @@ while True:
             print('Вы проиграли')
             break
         elif count == 21:
-            print('Вы победили 21!')
+            print('Вы набрали 21, вы победили!')
             break
         else:
             print('У вас %d очков.' %count)
