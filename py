@@ -19,7 +19,7 @@ while True:
         else:
             print('У вас %d очков.' %count)
     elif choice == 'n':
-        print('У вас %d очков и вы закончили игру.' %count)
+        print('У вас %d очков и вы проиграли.' %count)
         break
 
 print('Еще увидимся!')
